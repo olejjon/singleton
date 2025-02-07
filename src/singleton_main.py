@@ -1,6 +1,5 @@
 from singleton_module import singleton_instance
 
-# Тестирование
 a = singleton_instance
 b = singleton_instance
 

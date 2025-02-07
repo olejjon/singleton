@@ -12,7 +12,6 @@ class SingletonClass(metaclass=SingletonMeta):
         self.value = value
 
 
-# Тестирование
 a = SingletonClass(10)
 b = SingletonClass(20)
 
